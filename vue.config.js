@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/6-2HD-website/" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "/vue-jenkins/" : "/",
 };
